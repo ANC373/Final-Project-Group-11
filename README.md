@@ -17,9 +17,9 @@ Food Facility/Restaurant Inspection Violations:
 <br>
 https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/1a1329e2-418c-4bd3-af2c-cc334e7559af
 <br>
-Geocoded Food Facilities:
+Pittsburgh Wards:
 <br>
-https://data.wprdc.org/dataset/allegheny-county-restaurant-food-facility-inspection-violations/resource/112a3821-334d-4f3f-ab40-4de1220b1a0a
+https://data.wprdc.org/dataset/wards
 <br>
 Pittsburgh Police Arrest Data:
 <br>
