@@ -2,8 +2,7 @@
 Team Name: 
 Canvas Group # 11
 Team Members:
-Nicholas Myers - nrm97@pitt.edu
-, Anthony Chen - anc373@pitt.edu
+Nicholas Myers - nrm97@pitt.edu, Anthony Chen - anc373@pitt.edu, Daniel Gornick - dgg22@pitt.edu
 
 Repository overview:
 
@@ -21,9 +20,9 @@ Pittsburgh Wards:
 <br>
 https://data.wprdc.org/dataset/wards
 <br>
-Pittsburgh Police Arrest Data:
+Pittsburgh Police Incident Blotter (Archive):
 <br>
-https://data.wprdc.org/dataset/arrest-data
+https://data.wprdc.org/dataset/uniform-crime-reporting-data
 <br>
 Total Population of Pittsburgh Neighborhoods:
 <br>
