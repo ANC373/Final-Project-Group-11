@@ -3,7 +3,7 @@ Team Name:
 Canvas Group # 11
 Team Members:
 Nicholas Myers - nrm97@pitt.edu
-, Anthony Chen - anc373@pitt.edu
+, Anthony Chen - anc373@pitt.edu, Daniel Gornick - dgg22@pitt.edu
 
 Repository overview:
 
