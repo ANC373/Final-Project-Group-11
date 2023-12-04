@@ -20,9 +20,9 @@ Pittsburgh Wards:
 <br>
 https://data.wprdc.org/dataset/wards
 <br>
-Pittsburgh Police Arrest Data:
+Pittsburgh Police Incident Blotter (Archive):
 <br>
-https://data.wprdc.org/dataset/arrest-data
+https://data.wprdc.org/dataset/uniform-crime-reporting-data
 <br>
 Total Population of Pittsburgh Neighborhoods:
 <br>
