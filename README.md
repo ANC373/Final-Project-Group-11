@@ -4,7 +4,7 @@ Canvas Group # 11
 Team Members:
 Nicholas Myers - nrm97@pitt.edu, Anthony Chen - anc373@pitt.edu, Daniel Gornick - dgg22@pitt.edu
 
-Repository overview:
+Repository overview: This repository analyzes a variety of data to find the safest, best neighborhood in Pittsburgh.
 
 Datasets used: 
 
